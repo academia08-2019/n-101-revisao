@@ -1,0 +1,57 @@
+SÁBADO
+Estrutura HTML
+    tag
+    div
+    id
+    class
+    h1, h2, h3, h4, h5, h6
+    h1 usa para título, uma vez
+    SEO
+    herança de pai pra filho
+        <div class="pai">
+            <div clas="filhão">
+            <p>oi oi oi oi</p>
+            </div>
+        </div>
+    tag semântica
+        aside
+        footer
+        hedaer
+        nav
+        button
+        article
+    img com atributo alt
+
+CSS
+    margin 
+    padding
+    column
+    flexbox
+       display flex
+       align items
+       justify content
+    responsividade
+    text-transform: uppercase
+    background-color
+    background-image
+    font-family
+    font-size
+    border
+
+JavaScript
+    Java não é Javascript
+    prompt
+    let
+    var
+    const
+    for
+    while
+    if
+    alert
+    else
+    elseif
+    innerHTML
+    array
+    querySelector
+    selectById
+    selectByClass   
